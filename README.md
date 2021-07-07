@@ -1,9 +1,23 @@
+[//]: # (Image reference)
+[image1]: https://img.youtube.com/vi/hLIXTkSNILs/0.jpg
+[image2]: https://img.youtube.com/vi/hLIXTkSNILs/0.jpg
+[image3]: https://img.youtube.com/vi/hLIXTkSNILs/0.jpg
+[image4]: documentation/pr.png
+
 # Test Project
 
 This is a project for churn prediction.
 
 **This project is created for Data science academy**
 ---
+
+
+
+
+| Video1      | Video2     | Video3 |
+| ------- | ------- |--|
+|[![alt Coding competition][image1]](https://www.youtube.com/watch?v=hLIXTkSNILs) | [![alt Coding competition][image1]](https://www.youtube.com/watch?v=hLIXTkSNILs) | [![alt Coding competition][image1]](https://www.youtube.com/watch?v=hLIXTkSNILs)|
+
 *Neural network classifier for Dog breed classification*
 
 > A neural network is a network or circuit of neurons, or in a modern sense, an artificial neural network, composed of artificial neurons or nodes.[1] Thus a neural network is either a biological neural network, made up of biological neurons or an artificial neural network, for solving artificial intelligence (AI)
@@ -71,6 +85,7 @@ Link to dataset : Click [here](http://www.google.com)
 | ------- | ------- |--|
 | 93% | 47% | 99%|
 
+![Precision recall][image4]
 
 We tried the following ML models : 
 
