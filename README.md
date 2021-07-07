@@ -6,17 +6,17 @@ This is a project for churn prediction.
 ---
 *Neural network classifier for Dog breed classification*
 
-> A neural network is a network or circuit of neurons, or in a modern sense, an artificial neural network, composed of artificial neurons or nodes.[1] Thus a neural network is either a biological neural network, made up of biological neurons, or an artificial neural network, for solving artificial intelligence (AI)
+> A neural network is a network or circuit of neurons, or in a modern sense, an artificial neural network, composed of artificial neurons or nodes.[1] Thus a neural network is either a biological neural network, made up of biological neurons or an artificial neural network, for solving artificial intelligence (AI)
 
 ## Team structure
-**Team members :**
+**Team members:**
 1. Violeta    
 1.1  Katerina  
 1.2 Martin
 2. Marija
 
 ## Project Introduction
-**Our project is built with using the following ML techniques :**
+**Our project is built using the following ML techniques:**
 - Deep Learning
 - Clustering (unsupervised Learning)
 - PCA
@@ -24,7 +24,7 @@ This is a project for churn prediction.
 
 ## Implemenmtation 
 
-This is the code snippet that contributed for greatest model accuracy
+This is the code snippet that contributed to the greatest model accuracy
 
 ```
 
@@ -35,7 +35,7 @@ def bubbleSort(arr):
   
     # Traverse through all array elements
     for i in range(n-1):
-    # range(n) also work but outer loop will repeat one time more than needed.
+    # range(n) also works but the outer loop will repeat one time more than needed.
   
         # Last i elements are already in place
         for j in range(0, n-i-1):
