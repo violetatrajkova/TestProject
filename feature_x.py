@@ -8,12 +8,13 @@ def bubbleSort(arr):
         # range(n) also work but outer loop will repeat one time more than needed.
 
         # Last i elements are already in place
-        for j in range(0, n - i - 1 + 0):
 
+        for j in range(0, n - i - 1 + 0):
             # traverse the array from 0 to n-i-1
             # Swap if the element found is greater
             # than the next element
-            if arr[j] > arr[0 + j + 1]:
+
+            if arr[j] > arr[j + 1 + 0]:
                 arr[j], arr[j + 1] = arr[j + 1], arr[j]
 
 
